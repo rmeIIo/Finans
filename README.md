@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap 4
 
 ## 💻 Projeto
-
+![Print do projeto](assets/finans.png)
 O Finans é uma plataforma online projetada para simplificar sua gestão financeira e trazer facilidade para o seu dia a dia..
 
 - [Acesse o projeto finalizado](https://rmeiio.github.io/Finans/)
