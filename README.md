@@ -16,6 +16,7 @@ O Finans é uma plataforma online projetada para simplificar sua gestão finance
 ## Autor
 
 Roger Correa - [@rcorreamello](https://github.com/rmeIIo/)
+(projeto realizado para fins educativos)
 
 ## Licença
 
